@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/prateekkambadkone/Documents/Xcode/Projects/KeepUpServer/KeepUpServer/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}

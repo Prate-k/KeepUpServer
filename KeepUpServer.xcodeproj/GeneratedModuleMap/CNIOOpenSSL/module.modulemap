@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/prateekkambadkone/Documents/Xcode/Projects/KeepUpServer/KeepUpServer/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include"
+    export *
+}
